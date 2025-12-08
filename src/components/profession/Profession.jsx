@@ -3,21 +3,21 @@ import Roles from "./Roles";
 const rolesData = [
   {
     id: 1,
-    title: "User Experience (UX)",
+    title: "API Design & Development",
     description:
-      "I design intuitive and enjoyable experiences by understanding user needs, conducting research, and creating wireframes and prototypes that enhance usability.",
+      "I design clean, well-documented RESTful and GraphQL APIs that are scalable, secure, and easy to integrate with frontend and third-party services.",
   },
   {
     id: 2,
-    title: "User Interface (UI)",
+    title: "System Architecture & Scalability",
     description:
-      "I craft visually appealing and consistent interfaces, focusing on layout, color, and typography to ensure a seamless and engaging user journey.",
+      "I architect backend systems with scalability, resilience, and performance in mind, using microservices, cloud services, and efficient data flow patterns.",
   },
   {
     id: 3,
-    title: "Web Development",
+    title: "Database & Data Modeling",
     description:
-      "I build responsive and high-performance web applications using modern technologies, ensuring accessibility, scalability, and maintainability.",
+      "I design efficient database schemas, optimize queries, and manage data persistence for both SQL and NoSQL databases to ensure data integrity and performance.",
   },
 ];
 
@@ -31,14 +31,14 @@ const Profession = () => {
         <p className="section-title max-md:text-center">What I do?</p>
         <div className="mt-6 text-[14px]">
           <p className="text-xs sm:text-lg font-normal text-gray-400 mb-4">
-            I specialize in designing user experiences, crafting engaging
-            interfaces, and building robust web applications that deliver value
-            and usability.
+            As a Backend Engineer, I focus on server-side logic, data modeling, 
+            and API design to build the core infrastructure of web applications. 
+            I prioritize clean code, scalability, and security in every system I build.
           </p>
           <p className="text-xs sm:text-lg font-normal text-gray-400">
-            My approach combines creativity and technical expertise to deliver
-            solutions that are both visually appealing and highly functional for
-            users.
+            I blend deep technical expertise with a product-minded approach 
+            to deliver backend solutions that are both efficient and maintainable, 
+            enabling smooth and reliable user experiences.
           </p>
         </div>
         <a
