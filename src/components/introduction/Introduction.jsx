@@ -44,7 +44,7 @@ const Introduction = () => {
           <p className="text-center lg:text-start">
             <a
               className="btn-primary btn btn-xs xxs:btn-lg text-white"
-              href="augustineokonkwo744@gmail.com"
+              href="mailto:augustineokonkwo744@gmail.com"
             >
               Say Hello!
             </a>

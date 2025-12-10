@@ -13,7 +13,7 @@ const projectData = [
     category: "Backend Development",
     title: "SureSave Savings Application",
     description:
-      "I focus on crafting smooth, responsive interfaces that balance aesthetic appeal with practical functionality.",
+      "Developed a robust backend system for managing user savings, transactions, user management, wellet,  and account security. With Django Rest Framework. Dj-rest-auth for authentication and authorization.",
     link: "https://suresave.netlify.app",
   },
   {
@@ -22,7 +22,7 @@ const projectData = [
     category: "Backend Development",
     title: "Lumin Journal Application",
     description:
-      "Designed an intuitive dashboard for product management, emphasizing clarity and user efficiency.",
+      "Your personal space for reflection, journaling, and growth. A secure and intuitive platform to capture your thoughts and experiences. User authentication, and seamless syncing across devices. with Django Framework.",
     link: "https://luminsoft.pythonanywhere.com/",
   },
   {
@@ -31,7 +31,7 @@ const projectData = [
     category: "Backend API",
     title: "  StorePilot E-commerce API",
     description:
-      "Developed a modern admin panel with a focus on usability and seamless navigation for end users and so on.",
+      "A robust RESTful API built with Django REST Framework to power a seamless e-commerce experience. Features include product management, user authentication, order processing, and payment integration. using dj-rest-auth for authentication.",
     link: "#!",
   },
   {
@@ -40,7 +40,7 @@ const projectData = [
     category: "Backend API",
     title: "Lumin Academy API",
     description:
-      "Powering the next generation of digital learning — a RESTful API built with Django REST Framework. Secure, scalable, and designed for developers who want to build smarter learning experiences.",
+      "Powering the next generation of digital learning — a RESTful API built with Django REST Framework. Secure, scalable, and designed for developers who want to build smarter learning experiences. JWT authentication implemented.",
     link: "#!",
   },
   {
@@ -49,7 +49,7 @@ const projectData = [
     category: "Backend API",
     title: "SureSave API Ducommentation",
     description:
-      "Implemented interactive charts and widgets to visualize product data effectively for stakeholders.",
+      "Comprehensive API documentation for SureSave, detailing endpoints, request/response formats, authentication methods, and usage examples. Built with Django REST Framework and Swagger UI for easy integration and developer onboarding.",
     link: "https://suresave.pythonanywhere.com/api/schema/swagger-ui/",
   },
   {

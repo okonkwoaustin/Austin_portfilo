@@ -2,6 +2,7 @@ import {
   faBehance,
   faDribbble,
   faFacebookF,
+  faGithub,
   faInstagram,
   faLinkedin,
 } from "@fortawesome/free-brands-svg-icons";
@@ -9,10 +10,10 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
 const socialIcons = [
   { icon: faFacebookF, link: "#!" },
-  { icon: faDribbble, link: "#!" },
+  { icon: faGithub, link: "https://github.com/okonkwoaustin" },
   { icon: faInstagram, link: "#!" },
-  { icon: faLinkedin, link: "#!" },
-  { icon: faBehance, link: "#!" },
+  { icon: faLinkedin, link: "https://www.linkedin.com/in/maduabuchi-okonkwo-b59302224" },
+  /* { icon: faBehance, link: "#!" }, */
 ];
 
 const SocialMedia = () => {
